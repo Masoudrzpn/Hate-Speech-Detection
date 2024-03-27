@@ -1,5 +1,6 @@
 # Hate-Speech-Detection
 A project for performing binary classification tasks on textual data, utilizing HateBERT, a pre-trained language model, along with Transformer-based architectures. This code includes training, evaluation, and testing procedures for hate speech detection.
+[Cross-Domain.pdf](https://github.com/Masoudrzpn/Hate-Speech-Detection/files/14773011/Cross-Domain.pdf)
 
 
 ## General information
