@@ -1,5 +1,5 @@
 # Hate-Speech-Detection
-In this experiment, our focus was on studying how different models can effectively detect hate speech across different domains. We conduct an experiment involving five domains, where model is trained on the data from one source and then evaluated on the test data from the other four datasets along with Hate Check dataset.
+In this experiment, our focus was on studying how our model can effectively detect hate speech across different domains. We conduct an experiment involving five domains, where model is trained on the data from one source and then evaluated on the test data from the other four datasets along with Hate Check dataset.
 
 ## General information
 In all of our experiments, we utilized [`HateBERT`](https://huggingface.co/GroNLP/hateBERT), an English re-trained BERT model specifically designed for detecting abusive language.
