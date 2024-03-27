@@ -6,4 +6,7 @@ A project for performing binary classification tasks on textual data, utilizing 
 This folder contains the code for the [`HateBERT`](https://huggingface.co/GroNLP/hateBERT) model that was used for the project.
 All code makes use of Huggingface models and the Transformers package to import these models.
 
-***A [`Requirements.txt`](../requirements.txt) file is provided within the root folder of this project.***
+## Requirements
+Tested on Python 3.11.3, but anything close to that is likely to work as well.
+
+To run the model, one is required to install a small number of packages which can be found in requirements.txt.
