@@ -1,8 +1,8 @@
 # Hate-Speech-Detection
-A project for performing binary classification tasks on textual data, utilizing HateBERT, a pre-trained language model, along with Transformer-based architectures. This code includes training, evaluation, and testing procedures for hate speech detection.
+In this experiment, our focus was on studying how different models can effectively detect hate speech across different domains. We conduct an experiment involving five domains, where model is trained on the data from one source and then evaluated on the test data from the other four datasets along with Hate Check dataset.
 
 ## General information
-This folder contains the code for the [`HateBERT`](https://huggingface.co/GroNLP/hateBERT) model that was used for the project.
+In all of our experiments, we utilized [`HateBERT`](https://huggingface.co/GroNLP/hateBERT), an English re-trained BERT model specifically designed for detecting abusive language.
 All code makes use of Huggingface models and the Transformers package to import these models.
 
 ## Requirements
